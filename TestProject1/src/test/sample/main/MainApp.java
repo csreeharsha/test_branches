@@ -6,6 +6,7 @@ public class MainApp {
 System.out.println("Hello World");
 System.out.println("Commit 1");
 System.out.println("Commit from master");
+System.out.println("Commit from child branch test_branch_nov_06");
 	}
 
 }
